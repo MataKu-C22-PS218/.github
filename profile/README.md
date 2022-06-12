@@ -4,7 +4,7 @@
 3. Click install on apk file
 
 # Using the Application
-1. Log in to the application using yout cridential account
+1. Log in to the application using your cridential account
 2. If you haven't create any account, click on register
 3. The app will ask for permission to access camera and location
 4. Click allow or always allow
