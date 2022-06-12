@@ -10,4 +10,4 @@
 4. Click allow or always allow
 5. You can immediate use the object recognition if you press the record button
 6. If you want to use the location features, you can go to top right corner
-7. if you want to switch user, you can logout first with pressing the top left buttom
+7. if you want to switch user, you can logout first with pressing the top left button
