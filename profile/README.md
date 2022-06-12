@@ -1,12 +1,13 @@
-## Hi there 👋
+# Installation Guide
+1. Download apk file here
+2. Check your phone is "installation from another source" enable
+3. Click install on apk file
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Using the Application
+1. Log in to the application using yout cridential account
+2. If you haven't create any account, click on register
+3. The app will ask for permission to access camera and location
+4. Click allow or always allow
+5. You can immediate use the object recognition if you press the record button
+6. If you want to use the location features, you can go to top right corner
+7. if you want to switch user, you can logout first with pressing the top left buttom
